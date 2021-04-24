@@ -1,6 +1,6 @@
 {
   "name": "@arthanasti/legacy-plugin-chart-parallel-coordinates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Superset Legacy Chart - Parallel Coordinates",
   "sideEffects": [
     "*.css"
